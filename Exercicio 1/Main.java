@@ -1,3 +1,10 @@
+/*
+	Autor: Eduardo Barbosa de Oliveira RA: 1814559
+	Repositório: https://github.com/dacom-utfpr-cm/atividade1-threads-eboliveira
+	Data: 26/08/2019
+	Problema: Faça um programa em Java que inicie três threads e, cada
+	thread, espere um tempo aleatório para terminar.
+*/
 public class Main{
     public static void main(String[] args){
         System.out.println("Thread 0 iniciou");

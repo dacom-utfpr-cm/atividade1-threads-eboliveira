@@ -1,3 +1,11 @@
+/*
+	Autor: Eduardo Barbosa de Oliveira RA: 1814559
+	Repositório: https://github.com/dacom-utfpr-cm/atividade1-threads-eboliveira
+	Data: 26/08/2019
+	Problema: Faça uma Thread que monitora um conjunto de threads e exiba quais threads receberam sinais de interrupção.
+*/
+
+
 import java.io.FileNotFoundException;
 
 public class Main{
